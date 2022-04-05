@@ -1,7 +1,7 @@
 ### ::man_technologist: About Me :
 I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
 
-- :telescope: I’m a french Web Developer Junior and I am looking for an internship as a Web Developer in Paris area.
+- :telescope: I’m a french Web Developer Junior in Paris area.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-NicolasCHALONO-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-chalono-6a85b882/)
 - 🌐 My portfolio : https://nicolaschalono.fr
